@@ -8,7 +8,8 @@
 
 <br>
 
-- I'm currently working on <a style="text-decoration: underline dotted #5049cc; color: #5049cc; font-weight: 600;" href="https://uncenter.org">my website</a> - very much a work in progress &emsp;&emsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=online&url=https%3A%2F%2Funcenter.org)
+- I'm currently working on <a style="text-decoration: underline dotted #5049cc; color: #5049cc; font-weight: 600;" href="https://uncenter.org">my website</a> - very much a work in progress 
+![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=online&url=https%3A%2F%2Funcenter.org)
 - Learning Python and React
 - Making a Discord bot
 - Restoring some projects
