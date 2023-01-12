@@ -8,12 +8,42 @@
 
 <br>
 
-- I'm currently working on <a style="text-decoration: underline dotted #5049cc; color: #5049cc; font-weight: 600;" href="https://uncenter.org">my website</a> - very much a work in progress
+✨ I'm currently working on <a style="text-decoration: underline dotted #5049cc; color: #5049cc; font-weight: 600;" href="https://uncenter.org">my website</a> - very much a work in progress
   
 &emsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=online&url=https%3A%2F%2Funcenter.org)
-- Learning Python and React
-- Making a Discord bot
-- Restoring some projects
+
+### 🖥️ Projects/Software I Like
+* [Eleventy](https://www.11ty.dev)
+* [Notion](https://notion.so)
+* [Bypass Paywalls](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+* Davinci Resolve
+
+### 🛠️ Tools I Like
+* [SVGViewer](https://svgviewer.dev)
+* [Coolors](https://coolors.co)
+* [Fontello](https://fontello.com/)
+* [Carbon](https://carbon.now.sh)
+
+<hr>
+
+### 🤙 About Me
+
+Outside of programming, I do some things!
+
+#### Hobbies
+
+* 📚 I love to read!
+* 🧩 I can solve a Rubik's cube (pretty quickly if I do say so).
+* 📷 I enjoy taking photos with my DSLR and my drone!
+* 🎮 I like to play video games.
+
+#### Details
+
+* 🗣️ I'm currently learning 汉语/中文（Chinese 🇨🇳).
+* 🎨 My favorite color scheme is Nord 🗻.
+* 🏔️ I have summitted the tallest mountain in Africa.
+* 🏎️ My favorite car is the 1958 Studebaker Goldenhawk (you'll see why).
+*  I use MacOS (and iOS) since Linux is too complicated and Windows is... well... Windows.
 
 <br>
 </div>
