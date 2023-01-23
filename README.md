@@ -45,7 +45,7 @@ Outside of programming, I do some things!
 * 🎨 My favorite color scheme is Nord 🗻.
 * 🏔️ I have summitted the tallest mountain in Africa.
 * 🏎️ My favorite car is the 1958 Studebaker Goldenhawk (you'll see why).
-*  I use MacOS (and iOS) since Linux is too complicated and Windows is... well... Windows.
+* 🍎 I use MacOS (and iOS) since Linux is too complicated and Windows is... well... Windows.
 
 <br>
 </div>
