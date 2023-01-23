@@ -12,7 +12,7 @@
   
 &emsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=online&url=https%3A%2F%2Funcenter.org)
 
-![image](https://projecteuler.net/profile/VulcanWM.png)
+![image](https://projecteuler.net/profile/uncenter.png)
 
 ### 🖥️ Projects/Software I Like
 * [Eleventy](https://www.11ty.dev)
