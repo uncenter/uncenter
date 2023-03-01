@@ -8,16 +8,6 @@
 &emsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=online&url=https%3A%2F%2Funcenter.org)
 
 
-### 🖥️ Projects/Software I Like
-* [Eleventy](https://www.11ty.dev)
-* [Notion](https://notion.so)
-* [Bypass Paywalls](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
-
-### 🛠️ Tools I Like
-* [SVGViewer](https://svgviewer.dev)
-* [Coolors](https://coolors.co)
-* [Fontello](https://fontello.com/)
-
-<hr>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=uncenter&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 ![](https://hit.yhype.me/github/profile?user_id=47499684)
