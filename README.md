@@ -12,6 +12,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Spellchecking my blog posts with cSpell](https://uncenter.org/posts/spellchecking-with-eleventy/)
+- [A few thoughts on the Eleventy website](https://uncenter.org/posts/thoughts-on-eleventy/)
+- [Behind the scenes of create-eleventy-app](https://uncenter.org/posts/making-create-eleventy-app/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
