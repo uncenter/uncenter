@@ -1,8 +1,8 @@
 <h1 align="center">👋 hey! </h1>
 
-- 🔨 I’m currently working on [eleventy-plugin-icons](https://github.com/uncenter/eleventy-plugin-icons), a plugin that simplifies managing icons and icon sets in Eleventy
+- 🔨 I’m currently working on [Octotree](https://github.com/uncenter/octotree), a website made with SolidJS to turn Github repos into ASCII trees
 
-- 🌱 I’m currently learning **SolidJS**
+- 🌱 I’m currently learning **SolidJS** and **NextJS**
 
 - 🤝 I’m looking for help with [create-eleventy-app](https://github.com/uncenter/create-eleventy-app), a CLI tool that jump starts Eleventy projects in seconds
 
