@@ -1,5 +1,3 @@
-<h1 align="center">👋 hey! </h1>
-
 - 🔨 I’m currently working on [Octotree](https://github.com/uncenter/octotree), a website made with SolidJS to turn Github repos into ASCII trees
 
 - 🌱 I’m currently learning **SolidJS** and **NextJS**
