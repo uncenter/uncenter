@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Spellchecking my blog posts with cSpell](https://uncenter.org/posts/spellchecking-with-eleventy/)
-- [A few thoughts on the Eleventy website](https://uncenter.org/posts/thoughts-on-eleventy/)
-- [Behind the scenes of create-eleventy-app](https://uncenter.org/posts/making-create-eleventy-app/)
+- [Spell-checking Markdown with cSpell](https://uncenter.org/posts/spellchecking-with-eleventy/)
+- [On Eleventy](https://uncenter.org/posts/thoughts-on-eleventy/)
+- [v3.0 - Rebuilding my website from scratch](https://uncenter.org/posts/the-great-eleventy-reset/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
