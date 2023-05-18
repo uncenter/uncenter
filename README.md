@@ -12,7 +12,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Spell-checking Markdown with cSpell](https://uncenter.org/posts/spellchecking-with-eleventy/)
 - [On Eleventy](https://uncenter.org/posts/thoughts-on-eleventy/)
-- [v3.0 - Rebuilding my website from scratch](https://uncenter.org/posts/the-great-eleventy-reset/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages & tools
