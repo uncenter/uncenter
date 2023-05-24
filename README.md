@@ -23,4 +23,4 @@
 ![](https://hit.yhype.me/github/profile?user_id=47499684)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=uncenter)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=uncenter&theme=github-dark-blue)](https://git.io/streak-stats)
