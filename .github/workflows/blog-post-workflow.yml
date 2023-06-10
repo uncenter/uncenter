@@ -18,3 +18,6 @@ jobs:
               with:
                   max_post_count: "3"
                   feed_list: "https://uncenter.org/feed.xml"
+                  commit_message: "chore: update blog posts list"
+                  committer_username: "gautamkrishnar/blog-post-workflow"
+                  committer_email: "blog-posts[bot]@example.com"
