@@ -24,8 +24,8 @@
 <h4></h4>
 
 [![](https://img.shields.io/badge/uncenter-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://fosstodon.org/@uncenter)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uncenter.org)
-[![](https://img.shields.io/badge/Element%2FMatrix-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/%23/#uncenter:matrix.org)
+[![](https://img.shields.io/badge/fosstodon.org%2F%40uncenter-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://fosstodon.org/@uncenter)
+[![](https://img.shields.io/badge/contact%40uncenter.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uncenter.org)
+[![](https://img.shields.io/badge/%23uncenter%3Amatrix.org-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/%23/#uncenter:matrix.org)
 
 #
