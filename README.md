@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with [create-eleventy-app](https://github.com/uncenter/create-eleventy-app), a CLI tool that jump starts Eleventy projects in seconds
 
-- 📝 I ~~regularly~~ sometimes write articles on [my blog](https://uncenter.org/posts/) <a href="https://uncenter.org/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://uncenter.org/feed.xml" height="15" width="22" /></a>
+- 📝 I ~~regularly~~ sometimes write articles on [my blog](https://uncenter.org/) <a href="https://uncenter.org/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://uncenter.org/feed.xml" height="15" width="22" /></a>
 
 
 ### Recent posts
