@@ -6,14 +6,14 @@
 [![Ko-fi](https://img.shields.io/badge/donate-to%20my%20kofi-FF5E5B.svg?style=flat-square&logo=kofi&logoColor=white&labelColor=3C3744)](https://ko-fi.com/uncenter)
 [![Liberapay](https://img.shields.io/badge/donate-on%20liberapay-FBCF60.svg?style=flat-square&logo=liberapay&logoColor=white&labelColor=3C3744)](https://liberapay.com/uncenter)
 
-- 🔨 I’m currently working on [Octotree](https://github.com/uncenter/octotree), a website made with SolidJS to turn Github repos into ASCII trees
+- 🔨 I’m currently working on [`feed`](https://github.com/uncenter/feed-newsboat), a simple wrapper around newsboat to make it easier to launch, configure, and manage your feeds.
 
 - 🌱 I’m currently learning **SolidJS** and **Typescript**
 
 - 📝 I ~~regularly~~ sometimes write articles on [my blog](https://uncenter.org/) <a href="https://uncenter.org/feed.xml"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://uncenter.org/feed.xml" height="15" width="22"/></a>
 
-
 ### Recent posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Spell-checking Markdown with cSpell](https://uncenter.org/posts/spellchecking-with-eleventy/)
 - [An honest review of Eleventy](https://uncenter.org/posts/thoughts-on-eleventy/)
