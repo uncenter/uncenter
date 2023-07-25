@@ -6,7 +6,7 @@
 [![Ko-fi](https://img.shields.io/badge/donate-to%20my%20kofi-FF5E5B.svg?style=flat-square&logo=kofi&logoColor=white&labelColor=3C3744)](https://ko-fi.com/uncenter)
 [![Liberapay](https://img.shields.io/badge/donate-on%20liberapay-FBCF60.svg?style=flat-square&logo=liberapay&logoColor=white&labelColor=3C3744)](https://liberapay.com/uncenter)
 
-- 🔨 I’m currently working on [`feed`](https://github.com/uncenter/feed-newsboat), a simple wrapper around newsboat to make it easier to launch, configure, and manage your feeds.
+- 🔨 I’m currently working on [`fn`](https://github.com/uncenter/fn), a simple wrapper around Newsboat to make it easier to launch, configure, and manage your feeds.
 
 - 🌱 I’m currently learning **SolidJS** and **Typescript**
 
