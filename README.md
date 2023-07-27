@@ -3,9 +3,6 @@
 [![Email](https://img.shields.io/badge/email-contact%40uncenter.org-2DB3F0.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:contact@uncenter.org)
 [![Element/Matrix](https://img.shields.io/badge/matrix-@uncenter%3Amatrix.org-0DBD8B.svg?style=flat-square&logo=matrix&logoColor=white&labelColor=3C3744)](https://matrix.to/#/@uncenter:matrix.org)
 
-[![Ko-fi](https://img.shields.io/badge/donate-to%20my%20kofi-FF5E5B.svg?style=flat-square&logo=kofi&logoColor=white&labelColor=3C3744)](https://ko-fi.com/uncenter)
-[![Liberapay](https://img.shields.io/badge/donate-on%20liberapay-FBCF60.svg?style=flat-square&logo=liberapay&logoColor=white&labelColor=3C3744)](https://liberapay.com/uncenter)
-
 - 🔨 I’m currently working on [`fn`](https://github.com/uncenter/fn), a simple wrapper around Newsboat to make it easier to launch, configure, and manage your feeds.
 
 - 🌱 I’m currently learning **SolidJS** and **Typescript**
