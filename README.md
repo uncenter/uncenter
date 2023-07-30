@@ -12,6 +12,6 @@
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spell-checking Markdown with cSpell](https://uncenter.org/posts/spellchecking-with-eleventy/)
-- [An honest review of Eleventy](https://uncenter.org/posts/thoughts-on-eleventy/)
+- [Spell-checking Markdown with cSpell](https://uncenter.dev/posts/spellchecking-with-eleventy/)
+- [An honest review of Eleventy](https://uncenter.dev/posts/thoughts-on-eleventy/)
 <!-- BLOG-POST-LIST:END -->
