@@ -13,5 +13,4 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Spell-checking Markdown with cSpell](https://uncenter.dev/posts/spellchecking-with-eleventy/)
-- [An honest review of Eleventy](https://uncenter.dev/posts/thoughts-on-eleventy/)
 <!-- BLOG-POST-LIST:END -->
