@@ -12,5 +12,6 @@
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The package that broke NPM &lpar;accidentally&rpar;](https://uncenter.dev/posts/npm-install-everything/)
 - [Spell-checking Markdown with cSpell](https://uncenter.dev/posts/spellchecking-with-eleventy/)
 <!-- BLOG-POST-LIST:END -->
