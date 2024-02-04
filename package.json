@@ -1,0 +1,23 @@
+{
+  "name": "uncenter",
+  "version": "0.1.0",
+  "description": "Open source software developer, geography nerd, and high school student.",
+  "repository": "uncenter/uncenter",
+  "files": [
+    "README.md",
+    "src/"
+  ],
+  "main": "./src/index.js",
+  "bin": {
+    "uncenter": "./src/index.js"
+  },
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "uncenter <hi@uncenter.dev>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
