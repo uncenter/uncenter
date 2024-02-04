@@ -19,5 +19,6 @@
   "type": "module",
   "dependencies": {
     "picocolors": "^1.0.0"
-  }
+  },
+  "packageManager": "pnpm@8.15.1"
 }
