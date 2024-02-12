@@ -4,11 +4,11 @@
 [![Email](https://img.shields.io/badge/email-hi%40uncenter.dev-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:hi@uncenter.dev)
 
 
-- 🔨 I’m currently working on a variety of Catppuccin projects — mainly [catppuccin/userstyles](https://github.com/catppuccin/userstyles), [ctp-npmjs.com](https://github.com/uncenter/ctp-npmjs.com) (a Catppuccin userstyle for npmjs.com), and [ctpvert](https://github.com/uncenter/ctpvert) (a CLI for converting colors to their closest Catppuccin colors).
+- 🔨 I’m currently working on userstyles for the Catppuccin theme ([catppuccin/userstyles](https://github.com/catppuccin/userstyles)), various websites and tools, and Rust CLIs.
 
 - 🌟 My two favorite projects that I've made are [npm-on-github](https://github.com/uncenter/npm-on-github), a Chrome extension adding an NPM integration to GitHub, and [eleventy-plugin-icons](https://github.com/uncenter/eleventy-plugin-icons), a plugin making it super easy to use icons from anywhere in an [Eleventy](https://11ty.dev) site.
 
-- 🌱 I’m currently learning **Rust**. Check out my first project, [tnl](https://github.com/uncenter/tnl)!
+- 🌱 I’m currently learning **Rust**. Check out my new CLI, [kittysay](https://github.com/uncenter/kittysay)!
 
 - 📝 I ~~regularly~~ sometimes write articles on [my blog](https://uncenter.dev/).
 
