@@ -4,11 +4,14 @@
 [![Email](https://img.shields.io/badge/email-hi%40uncenter.dev-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:hi@uncenter.dev)
 
 
-- 🔨 I’m currently working on userstyles for the Catppuccin theme ([catppuccin/userstyles](https://github.com/catppuccin/userstyles)), various websites and tools, and Rust CLIs.
+- 🔨 I’m currently working on userstyles for the Catppuccin theme ([catppuccin/userstyles](https://github.com/catppuccin/userstyles)), as well as various websites, tools, and CLIs.
 
-- 🌟 My two favorite projects that I've made are [npm-on-github](https://github.com/uncenter/npm-on-github), a Chrome extension adding an NPM integration to GitHub, and [eleventy-plugin-icons](https://github.com/uncenter/eleventy-plugin-icons), a plugin making it super easy to use icons from anywhere in an [Eleventy](https://11ty.dev) site.
-
-- 🌱 I’m currently learning **Rust**. Check out my new CLI, [kittysay](https://github.com/uncenter/kittysay)!
+- 🌟 My favorite recent project of mine is [catppuccin/github-file-explorer-icons](https://github.com/catppuccin/github-file-explorer-icons), a browser extension for adding Catppuccin-flavored icons to Github's file explorer.
+  - 🎈 Check out my Eleventy plugins: [`eleventy-plugin-icons`](https://github.com/uncenter/eleventy-plugin-icons), [`eleventy-plugin-validate`](https://github.com/uncenter/), and [`@uncenter/eleventy-plugin-toc`](https://github.com/uncenter/eleventy-plugin-toc).
+  - 🦀 My Rust CLIs: [kittysay](https://github.com/uncenter/kittysay), [icnsify](https://github.com/uncenter/icnsify), and [sttr-rs](https://github.com/uncenter/sttr-rs).
+  - 🌐 And my web apps: [Octotree](https://tree.uncenter.dev/), [JSON to Nix](https://json-to-nix.pages.dev/), [Mailto Link Generator](https://mailtolink.pages.dev/), [ASCII to Lua Table](https://ascii-to-lua-table.pages.dev/).
+ 
+- ❄️ I use Nix/nix-darwin/Home Manager to configure my macOS system - see [my flake](https://github.com/uncenter/flake).
 
 - 📝 I ~~regularly~~ sometimes write articles on [my blog](https://uncenter.dev/).
 
