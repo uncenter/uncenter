@@ -18,7 +18,7 @@
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Fortran](https://uncenter.dev/posts/learning-fortran/)
-- [The package that broke NPM &lpar;accidentally&rpar;](https://uncenter.dev/posts/npm-install-everything/)
-- [Spell-checking Markdown with cSpell](https://uncenter.dev/posts/spellchecking-with-eleventy/)
+- [Learning the oldest programming language](https://uncenter.dev/posts/learning-fortran/)
+- [The package that broke npm &lpar;accidentally&rpar;](https://uncenter.dev/posts/npm-install-everything/)
+- [Spell-checking blog posts with cSpell](https://uncenter.dev/posts/spellchecking-with-eleventy/)
 <!-- BLOG-POST-LIST:END -->
