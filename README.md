@@ -23,5 +23,6 @@
 - [Spell-checking blog posts with cSpell](https://uncenter.dev/posts/spellchecking-with-eleventy/)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- Credit to https://x.com/cloud11665/status/1799136093071163396 for this neat trick! -->
 ```math
 \ce{$\unicode[font-family: system-ui; pointer-events: none; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.15; background: url('https://github.com/uncenter/flake/raw/main/.github/assets/nix.svg'); background-size: 900px; background-position: center;]{x0000}$}
