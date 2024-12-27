@@ -1,4 +1,3 @@
-[![Mastodon](https://img.shields.io/badge/mastodon-@uncenter@fosstodon.org-6364FF.svg?style=flat-square&logo=mastodon&logoColor=white&labelColor=3C3744)](https://fosstodon.org/@uncenter)
 [![Discord](https://img.shields.io/badge/discord-uncenter-5865F2.svg?style=flat-square&logo=discord&logoColor=white&labelColor=3C3744)](https://discord.com/users/554752666299924492)
 [![Email](https://img.shields.io/badge/email-hi%40uncenter.dev-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:hi@uncenter.dev)
 
