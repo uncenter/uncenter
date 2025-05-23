@@ -6,7 +6,7 @@
 - 🔨 I’m currently working on userstyles for the Catppuccin theme ([catppuccin/userstyles](https://github.com/catppuccin/userstyles)), as well as various websites, tools, and CLIs.
 
 - 🌟 My favorite recent project of mine is [catppuccin/github-file-explorer-icons](https://github.com/catppuccin/github-file-explorer-icons), a browser extension for adding Catppuccin-flavored icons to GitHub's file explorer.
-  - 🎈 Check out my Eleventy plugins: [eleventy-plugin-icons](https://github.com/uncenter/eleventy-plugin-icons), [eleventy-plugin-validate](https://github.com/uncenter/), and [@uncenter/eleventy-plugin-toc](https://github.com/uncenter/eleventy-plugin-toc).
+  - 🎈 Check out my Eleventy plugins: [eleventy-plugin-icons](https://github.com/uncenter/eleventy-plugin-icons), [eleventy-plugin-validate](https://github.com/uncenter/eleventy-plugin-validate), and [@uncenter/eleventy-plugin-toc](https://github.com/uncenter/eleventy-plugin-toc).
   - 🦀 My Rust tools: [kittysay](https://github.com/uncenter/kittysay), [icnsify](https://github.com/uncenter/icnsify), [ito](https://github.com/uncenter/ito), and [purr](https://github.com/uncenter/purr).
   - 🌐 And my web apps: [Octotree](https://tree.uncenter.dev/), [JSON to Nix](https://json-to-nix.pages.dev/), [Mailto Link Generator](https://mailtolink.pages.dev/), [ASCII to Lua Table](https://ascii-to-lua-table.pages.dev/).
  
