@@ -3,18 +3,17 @@
 [![Email](https://img.shields.io/badge/email-hi%40uncenter.dev-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:hi@uncenter.dev)
 
 
-- 🔨 I’m currently working on userstyles for the Catppuccin theme ([catppuccin/userstyles](https://github.com/catppuccin/userstyles)), as well as various websites, tools, and CLIs.
+I’m currently working on userstyles for the Catppuccin theme ([catppuccin/userstyles](https://github.com/catppuccin/userstyles)), as well as various websites, tools, and CLIs.
 
-- 🌟 My favorite recent project of mine is [catppuccin/github-file-explorer-icons](https://github.com/catppuccin/github-file-explorer-icons), a browser extension for adding Catppuccin-flavored icons to GitHub's file explorer.
-  - 🎈 Check out my Eleventy plugins: [eleventy-plugin-icons](https://github.com/uncenter/eleventy-plugin-icons), [eleventy-plugin-validate](https://github.com/uncenter/eleventy-plugin-validate), and [@uncenter/eleventy-plugin-toc](https://github.com/uncenter/eleventy-plugin-toc).
-  - 🦀 My Rust tools: [kittysay](https://github.com/uncenter/kittysay), [icnsify](https://github.com/uncenter/icnsify), [ito](https://github.com/uncenter/ito), and [purr](https://github.com/uncenter/purr).
-  - 🌐 And my web apps: [Octotree](https://tree.uncenter.dev/), [JSON to Nix](https://json-to-nix.pages.dev/), [Mailto Link Generator](https://mailtolink.pages.dev/), [ASCII to Lua Table](https://ascii-to-lua-table.pages.dev/).
+Check out my [Eleventy](https://www.11ty.dev/) plugins for [adding SVG icons](https://github.com/uncenter/eleventy-plugin-icons), [validating frontmatter data](https://github.com/uncenter/eleventy-plugin-validate), and [generating tables of contents](https://github.com/uncenter/eleventy-plugin-toc).
+
+I've created CLIs for [converting PNGs to `.icns` files](https://github.com/uncenter/icnsify) and [cowsay but a kitty](https://github.com/uncenter/kittysay).
+
+See also my web apps for [generating ASCII trees of GitHub repositories](https://tree.uncenter.dev/), [converting JSON to Nix expressions](https://json-to-nix.pages.dev/), [formatting `mailto:` links](https://mailtolink.pages.dev/), and [generating Lua tables for ASCII art](https://ascii-to-lua-table.pages.dev/).
  
-- ❄️ I use [Nix](https://nixos.org/) & [Home Manager](https://github.com/nix-community/home-manager) to configure my macOS and WSL systems - see [my flake](https://github.com/uncenter/flake). I've also made two Nix-focused CLIs, [nixpkgs-using](https://github.com/uncenter/nixpkgs-using) and [nixpkgs-track](https://github.com/uncenter/nixpkgs-track).
+I use [Nix](https://nixos.org/) to configure my machines - see [my flake](https://github.com/uncenter/flake). I've also made two Nix-focused CLIs, [nixpkgs-track](https://github.com/uncenter/nixpkgs-track) and [nixpkgs-using](https://github.com/uncenter/nixpkgs-using).
 
-- 📝 I ~~regularly~~ sometimes write articles on [my blog](https://uncenter.dev/).
-
-### Recent posts
+### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
 - [Learning the oldest programming language](https://uncenter.dev/posts/learning-fortran/)
