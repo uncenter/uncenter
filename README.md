@@ -16,7 +16,7 @@ I use [Nix](https://nixos.org/) to configure my machines - see [my flake](https:
 ### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [My new Learn Eleventy course](https://uncenter.dev/posts/learn-eleventy-update/)
 - [Learning the oldest programming language](https://uncenter.dev/posts/learning-fortran/)
 - [The package that broke npm &lpar;accidentally&rpar;](https://uncenter.dev/posts/npm-install-everything/)
-- [Spell-checking blog posts with cSpell](https://uncenter.dev/posts/spellchecking-with-eleventy/)
 <!-- BLOG-POST-LIST:END -->
